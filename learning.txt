@@ -1,1 +1,1 @@
-So far in this course, I've learned the difference between forking and branching, and how to use the command line to move files between my computer and GitHub.
+What I have learned from this course is how to manage repositories, create branches, and sync local changes using the Git command line.
